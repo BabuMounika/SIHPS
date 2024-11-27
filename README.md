@@ -19,11 +19,16 @@ Connecting an alumni association to a university is a powerful way to create a l
 6. Alumni Directory and Database Integration : Maintain an up-to-date alumni directory that integrates with the university’s CRM system for easy communication, targeting specific alumni groups based on location, major, or graduation year.Offer advanced search capabilities for alumni to connect with peers, form professional networks, or discover opportunities for collaboration.
 
 ## Proposed Solution / Architecture Diagram
-![Architecture diagram (web)](https://github.com/user-attachments/assets/7beb8845-c831-4d54-bf40-f5ca41bf6966)
+![architecture diagram(WEB)](https://github.com/user-attachments/assets/73177791-c0c8-4232-a57b-d4937e138a8c)
+
+
 
 
 ## Use Cases
-![use cases diagram (web)](https://github.com/user-attachments/assets/ba677aeb-f763-4311-9b86-e47ef7d58bc0)
+![Use cases(web)](https://github.com/user-attachments/assets/a15fee72-fcb2-4fea-b751-61b89c8b6e8f)
+
+
+
 
 
 ## Technology Stack
